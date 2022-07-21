@@ -8,6 +8,7 @@ public class FindMinMaxLs {
         System.out.println(findMin(a));
         System.out.println(findMax(a));
 
+
     }
 
 
