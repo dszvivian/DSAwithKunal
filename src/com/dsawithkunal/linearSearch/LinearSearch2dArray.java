@@ -1,4 +1,4 @@
-package com.dsawithkunal;
+package com.dsawithkunal.linearSearch;
 
 import java.util.Arrays;
 
